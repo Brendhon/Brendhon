@@ -1,5 +1,5 @@
 ## Hello 👋, I'm Brendhon
-<a href="https://linkedin.com/in/brendhon-moreira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/brendhon-moreira/" height="20vh" width="30vh" /></a>
+<a href="https://linkedin.com/in/brendhon-moreira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/brendhon-moreira/" width="20vh" /></a>
 
 ---
 ### About
