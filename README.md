@@ -3,7 +3,7 @@
 
 ---
 ### About
-* 🏫 I'm studying on **[Inatel](https://inatel.br/home/)**
+* 🏫 I'm studying at **[Inatel](https://inatel.br/home/)**
 * 💻 I’m learning web and mobile development
 
 ---
