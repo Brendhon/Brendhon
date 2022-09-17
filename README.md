@@ -3,8 +3,10 @@
 
 ---
 ### About
-* 🏫 I'm studying at **[Inatel](https://inatel.br/home/)**
+* 🏫 I graduated in computer engineer at **[Inatel](https://inatel.br/home/)**
+* 🏫 I'm studying Mobiles Devices and Cloud Computing at **[Inatel](https://inatel.br/home/)**
 * 💻 I’m learning web and mobile development
+* 📄 My **[curriculum](https://brendhon.github.io/Curriculum/)** 
 
 ---
 
