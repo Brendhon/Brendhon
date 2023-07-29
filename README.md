@@ -16,4 +16,7 @@
 ---
 
 ### Github Statistics
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=brendhon&show_icons=true&theme=darcula" alt="Brendhon github stats" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendhon&exclude_repo=ExerciciosM109&langs_count=7&layout=compact&hide=objective-c&theme=darcula" alt="Top Langs" width="330"/></p>
+<p align="left">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=brendhon&show_icons=true&theme=darcula" alt="Brendhon github stats" width="400"/>  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendhon&exclude_repo=ExerciciosM109&langs_count=7&layout=compact&hide=objective-c&theme=darcula" alt="Top Langs" width="330"/>
+</p>
